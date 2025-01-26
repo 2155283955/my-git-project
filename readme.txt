@@ -6,4 +6,4 @@ this change was made in the bugfix-branch
 This line is added from master branch.
 this line is added for test pull
 this line is added for test pull +1
-
+this line is added for test pull +2
